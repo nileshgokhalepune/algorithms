@@ -1,0 +1,12 @@
+using System;
+using System.Collections.Generic;
+
+public class Program {
+	public static bool IsValidSubsequence(List<int> array, List<int> sequence) {
+		int i = 0;
+		int j= 0;
+        int[,] test = new [1,2];
+        Console.WriteLine(test.Length);
+        return false;
+	}
+}

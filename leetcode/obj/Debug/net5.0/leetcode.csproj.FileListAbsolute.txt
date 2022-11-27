@@ -1,0 +1,16 @@
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\leetcode.exe
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\leetcode.deps.json
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\leetcode.runtimeconfig.json
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\leetcode.runtimeconfig.dev.json
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\leetcode.dll
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\ref\leetcode.dll
+C:\Learning\Algorithms\leetcode\bin\Debug\net5.0\leetcode.pdb
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.csproj.AssemblyReference.cache
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.AssemblyInfoInputs.cache
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.AssemblyInfo.cs
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.csproj.CoreCompileInputs.cache
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.dll
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\ref\leetcode.dll
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.pdb
+C:\Learning\Algorithms\leetcode\obj\Debug\net5.0\leetcode.genruntimeconfig.cache
